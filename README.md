@@ -4,6 +4,9 @@
 
 FireGNN is a framework for fuzzy rule-enhanced graph neural networks that combines trainable fuzzy rules with auxiliary tasks for improved performance on medical image classification. The system includes baseline models, fuzzy-enhanced models, and auxiliary task models.
 
+## Architecture
+<img width="625" height="351" alt="image" src="https://github.com/user-attachments/assets/3eaa5f0d-8665-4f02-96db-7155926cb089" />
+
 ## Project Structure
 
 ```
@@ -154,6 +157,9 @@ The fuzzy models use trainable Gaussian membership functions:
 - **Rule Widths**: Learnable standard deviations
 - **Rule Weights**: Learnable importance weights
 - **Rule Integration**: Fuzzy rules integrated with GNN embeddings
+
+<img width="635" height="147" alt="image" src="https://github.com/user-attachments/assets/b59ea05d-c0d4-45bf-8ae9-0b941b933e2e" />
+
 
 ## Auxiliary Tasks
 
