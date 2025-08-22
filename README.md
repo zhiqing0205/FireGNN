@@ -1,4 +1,4 @@
-# FireGNN: Fuzzy Rule-Enhanced Graph Neural Networks with Auxiliary Tasks
+# FireGNN: Neuro-Symbolic Graph Neural Networks with Trainable Fuzzy Rules for Interpretable Medical Image Classification
 
 ## Overview
 
@@ -223,11 +223,11 @@ python run_pipeline.py --dataset organcmnist --train_baselines --train_fuzzy --t
 
 If you use this code in your research, please cite:
 ```
-@article{firegnn2024,
-  title={FireGNN: Fuzzy Rule-Enhanced Graph Neural Networks with Auxiliary Tasks},
+@article{firegnn2025,
+  title={FireGNN},
   author={Your Name},
   journal={arXiv preprint},
-  year={2024}
+  year={2025}
 }
 ```
 
